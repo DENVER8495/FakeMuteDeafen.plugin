@@ -1,1 +1,2 @@
-# FakeMuteDeafen.plugin
+# FakeMuteDeafen Plugin
+This is my first commit 🎉
